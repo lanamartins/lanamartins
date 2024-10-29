@@ -4,7 +4,7 @@ Sou uma entusiasta de tecnologia e desenvolvedora front-end em formação. Estou
 Atualmente, estou cursando Desenvolvimento Front-End no Vai na Web, onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript e React. Estou em uma transição de carreira da área de saúde para a tecnologia, onde estou me dedicando ao vestibular e ENEM para cursar Ciência da Computação. Estou animada para construir projetos inovadores e impactantes.
 
 <p float="left">
-  <img src="1.png" width="200" />
-  <img src="2.png" width="200" />
-  <img src="3.png.jpg" width="200" />
+  <img src="imagens-readme/1.png" width="200" />
+  <img src="imagens-readme/2.png" width="200" />
+  <img src="imagens-readme/3.png.jpg" width="200" />
 </p>
