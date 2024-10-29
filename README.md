@@ -1,7 +1,7 @@
 ## Olá, sou a Lana!
 
-Sou uma entusiasta de tecnologia e desenvolvedora front-end em formação. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de codificação.
-Atualmente, estou cursando Desenvolvimento Front-End no Vai na Web, onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript e React. Estou em uma transição de carreira da área de saúde para a tecnologia, onde estou me dedicando ao vestibular e ENEM para cursar Ciência da Computação e realizando cursos para aprimorar meus conhecimentos na área. Estou animada para construir projetos inovadores e impactantes.
+<p>Sou uma entusiasta de tecnologia e desenvolvedora front-end em formação. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de codificação.</p>
+<p>Atualmente, estou cursando Desenvolvimento Front-End no Vai na Web, onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript e React. Estou em uma transição de carreira da área de saúde para a tecnologia, onde estou me dedicando ao vestibular e ENEM para cursar Ciência da Computação e realizando cursos para aprimorar meus conhecimentos na área. Estou animada para construir projetos inovadores e impactantes.</p>
 
 <h2>Habilidades e Tecnologias</h2>
 <div style="display: inline_block"><br>
@@ -24,10 +24,6 @@ Atualmente, estou cursando Desenvolvimento Front-End no Vai na Web, onde estou a
   </a>
   <a href="https://instagram.com/lanamartinsm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.gg/lanamartins" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
 </div>
 <br>
 <div>
